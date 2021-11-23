@@ -14,6 +14,6 @@
 
 # Sounds
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.config.ringtone=Copycat.ogg \
+    ro.config.ringtone=Crackle.ogg \
     ro.config.alarm_alert=Bright_morning.ogg \
-    ro.config.notification_sound=End_note.ogg
+    ro.config.notification_sound=Eureka.ogg
