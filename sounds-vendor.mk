@@ -78,8 +78,5 @@ PRODUCT_COPY_FILES += \
     vendor/google/sounds/proprietary/product/media/audio/ui/reverse_charging_end.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/reverse_charging_end.ogg \
     vendor/google/sounds/proprietary/product/media/audio/ui/reverse_charging_start.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/reverse_charging_start.ogg
 
-PRODUCT_PACKAGES += \
-    SoundPickerPrebuilt
-
 # Config
 $(call inherit-product, vendor/google/sounds/config.mk)

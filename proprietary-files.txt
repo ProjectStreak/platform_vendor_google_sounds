@@ -1,4 +1,3 @@
--product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk;PRESIGNED
 product/media/audio/alarms/A_real_hoot.ogg
 product/media/audio/alarms/Bright_morning.ogg
 product/media/audio/alarms/Cuckoo_clock.ogg
